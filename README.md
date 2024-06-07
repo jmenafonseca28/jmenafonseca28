@@ -1,6 +1,8 @@
 
 # Hola, soy José Elías Mena Fonseca 👋
 
+![Portrait](https://tu-url-de-la-imagen.com)
+
 ## Sobre mí
 Soy estudiante de Informática Empresarial en la Universidad de Costa Rica. Me apasiona la carrera y aprender sobre desarrollo y tecnología en general. He utilizado varios sistemas operativos como Ubuntu, Ubuntu Server, CentOS, Windows, y tengo conocimientos en varios frameworks y lenguajes.
 
