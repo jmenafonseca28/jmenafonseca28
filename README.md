@@ -20,22 +20,30 @@ Soy estudiante de Informática Empresarial en la Universidad de Costa Rica. Me a
 **Frameworks:**
 - React
 - Angular
-- Express.js
+- Express
 - .Net Core
 - Bootstrap
+- TaildwindCss
 - SpringBoot
 - Ionic
 - React Native
 - Laravel
+- Nest
 
 **Bases de Datos:**
 - MySQL
 - SQL Server
+- Postgres
+- Mongodb
 
 **Redes:**
 - Configuración de routers
 - Configuración de switches
 - VLANs
+
+**Virtualización**
+- VirtualBox
+- Docker
 
 ## Proyectos Destacados
 ### [BackIngE-N](https://github.com/tu-repo)
