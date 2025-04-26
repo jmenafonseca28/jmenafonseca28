@@ -4,7 +4,7 @@
 ![Portrait](https://github.com/jmenafonseca28/jmenafonseca28/blob/main/PC.jpg)
 
 ## Sobre mí
-Soy estudiante de Informática Empresarial en la Universidad de Costa Rica. Me apasiona la carrera y aprender sobre desarrollo y tecnología en general. He utilizado varios sistemas operativos como Ubuntu, Ubuntu Server, CentOS, Windows, y tengo conocimientos en varios frameworks y lenguajes.
+Soy graduado de Informática Empresarial en la Universidad de Costa Rica. Me apasiona la carrera y aprender sobre desarrollo y tecnología en general. He utilizado varios sistemas operativos como Ubuntu, Ubuntu Server y Windows. Tengo conocimientos en varios frameworks, lenguajes y técnologías de virtualización.
 
 ## Habilidades y Tecnologías
 **Lenguajes y Tecnologías:**
