@@ -1,8 +1,6 @@
 
 # Hola, soy el Ingeniero José Elías Mena Fonseca 👋
 
-![Portrait](https://github.com/jmenafonseca28/jmenafonseca28/blob/main/PC.jpg)
-
 ## Sobre mí
 Soy graduado de Informática Empresarial en la Universidad de Costa Rica. Me apasiona la carrera y aprender sobre desarrollo y tecnología en general. He utilizado varios sistemas operativos como Ubuntu, Ubuntu Server y Windows. Tengo conocimientos en varios frameworks, lenguajes y técnologías de virtualización.
 
